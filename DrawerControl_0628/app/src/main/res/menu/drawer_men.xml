@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Planets">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_earth"
+                android:icon="@drawable/earth_icon"
+                android:title="Earth" />
+
+            <item
+                android:id="@+id/nav_jupiter"
+                android:icon="@drawable/jupiter_icon"
+                android:title="Jupiter" />
+
+            <item
+                android:id="@+id/nav_mars"
+                android:icon="@drawable/mars_icon"
+                android:title="Mars" />
+
+            <item
+                android:id="@+id/nav_mercury"
+                android:icon="@drawable/mercury_icon"
+                android:title="Mercury" />
+
+            <item
+                android:id="@+id/nav_neptune"
+                android:icon="@drawable/neptune_icon"
+                android:title="Neptune" />
+
+            <item
+                android:id="@+id/nav_saturn"
+                android:icon="@drawable/saturn_icon"
+                android:title="Saturn" />
+
+            <item
+                android:id="@+id/nav_uranus"
+                android:icon="@drawable/uranus_icon"
+                android:title="Uranus" />
+        </menu>
+
+
+    </item>
+
+</menu>
