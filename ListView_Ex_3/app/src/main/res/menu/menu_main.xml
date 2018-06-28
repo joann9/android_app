@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_discoverable"
+        android:icon="@drawable/discoverable"
+        android:title = "Discoverable"
+        android:showAsAction = "always"/> <!-- always / never -->
+
+    <item
+        android:id = "@+id/menu_search"
+
+        android:title = "Search"
+        android:showAsAction = "always" />
+
+    <item
+        android:id="@+id/menu_carButtonMode"
+        android:title = "Car Button Mode"
+        android:showAsAction = "never"/>
+
+
+    <item
+        android:id="@+id/menu_carSensorMode"
+        android:title="Car Sensor Mode"
+        android:showAsAction = "never"/>
+
+    <item
+        android:id="@+id/menu_controlMode"
+        android:title="Control Mode"
+        android:showAsAction = "never"/>
+
+</menu>

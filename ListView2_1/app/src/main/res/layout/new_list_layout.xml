@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--   要刪掉
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+-->
+<!--   參考檔案 simple_expandable_list_item_1.xml 的<TextView 格式
+        路徑 C:\Users\YVTC\AppData\Local\Android\Sdk\platforms\android-26\data\res\layout-->
+    <CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/textcheck"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:textAppearance="?android:attr/textAppearanceListItem"
+        android:gravity="center_vertical"
+        android:paddingStart="30dp"
+        android:text="CheckedTextView"
+        android:textAlignment="viewStart"
+        android:textColor="@color/colorAccent"/>
+
+    <!--   要刪掉</android.support.constraint.ConstraintLayout> -->

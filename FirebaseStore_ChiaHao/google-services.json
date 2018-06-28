@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "278068462238",
+    "firebase_url": "https://fir-store2.firebaseio.com",
+    "project_id": "fir-store2",
+    "storage_bucket": "fir-store2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278068462238:android:94ac952282b7eb1d",
+        "android_client_info": {
+          "package_name": "com.charles.firebasestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278068462238-bbfaastiaec6h7bhr703jsmd035jk763.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "278068462238-bbfaastiaec6h7bhr703jsmd035jk763.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG5Q7Z5nOBvb3ix0H4HCv-w2BPhUq8Lao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

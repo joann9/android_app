@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListView2_1</string>
+
+    <string-array name="fastfood">
+        <item>COCA Light</item>
+        <item>COCA Zero</item>
+        <item>COCA</item>
+        <item>French Fries</item>
+        <item>Hamburger</item>
+        <item>KFC</item>
+    </string-array>
+</resources>

@@ -1,0 +1,60 @@
+{
+  "project_info": {
+    "project_number": "941032020462",
+    "firebase_url": "https://fir-control2-5cb9f.firebaseio.com",
+
+    "project_id": "fir-floatingacti-d142b",
+    "storage_bucket": "fir-control2-5cb9f.firebaseio.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941032020462:android:08e0f61b6278053e",
+        "android_client_info": {
+          "package_name": "com.example.yvtc.a20180613_01_firebase__floating_action_button"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941032020462-oi6ie4cvffg9pfkpbh1b5qt2kfc0cb9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yvtc.a20180613_01_firebase__floating_action_button",
+            "certificate_hash": "b010d360954570d1b8a8e16b7b5eae6f726a143e"
+          }
+        },
+        {
+          "client_id": "941032020462-7e189dvn9rtqk5do9maub2icsb05civh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "941032020462-7e189dvn9rtqk5do9maub2icsb05civh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW7-KeUiyH4EiiXQoq5VS1esC3su8gHdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941032020462-7e189dvn9rtqk5do9maub2icsb05civh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

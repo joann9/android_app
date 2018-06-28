@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_btSearch"
+        android:icon="@drawable/bluetooth"
+        android:title="Search"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menu_btDiscoverable"
+        android:icon="@drawable/ok"
+        android:title="Discoverable"
+        app:showAsAction="always" />
+
+    <item
+        android:id = "@+id/menu_carButtonMode"
+        android:title="Car Button Mode"/>
+
+    <item
+        android:id = "@+id/menu_carSensorMode"
+        android:title="Car Sensor Mode"/>
+
+    <item
+        android:id = "@+id/menu_speech_mode"
+        android:title="Car Speech Mode"/>
+
+    <item
+        android:id = "@+id/menu_rocker_mode"
+        android:title="Car Rocker Mode"/>
+
+    <item
+        android:id = "@+id/menu_controlMode"
+        android:title="Control Mode"/>
+
+</menu>

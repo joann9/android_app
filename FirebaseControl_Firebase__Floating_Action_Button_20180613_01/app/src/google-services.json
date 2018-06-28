@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "15702240448",
+    "firebase_url": "https://fir-control2-5cb9f.firebaseio.com",
+    "project_id": "fir-control2-5cb9f",
+    "storage_bucket": "fir-control2-5cb9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15702240448:android:08e0f61b6278053e",
+        "android_client_info": {
+          "package_name": "com.example.yvtc.a20180613_01_firebase__floating_action_button"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15702240448-818jbrbnos3bfm1hvug76cs1edp99uhv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "15702240448-818jbrbnos3bfm1hvug76cs1edp99uhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssXYJPJ2FfmdO_jnDZzb4GmtvZHYzLDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

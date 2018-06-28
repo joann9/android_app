@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI2</string>
+    <string name="title_activity_bmi">BMIActivity</string>
+    <string name="title_activity_bmi2">BMI2Activity</string>
+
+    <string name="bmi_normal">正常</string>
+    <string name="bmi_high">偏高</string>
+    <string name="bmi_overhigh">過高</string>
+    <string name="bmi_error">BMI Value is error.</string>
+
+</resources>

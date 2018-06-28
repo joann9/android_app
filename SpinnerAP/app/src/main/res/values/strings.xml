@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SpinnerAP</string>
+
+    <string-array name="country">
+        <item>Taiwan</item>
+        <item>Japan</item>
+        <item>Korea</item>
+        <item>Thailand</item>
+        <item>Indonesia</item>
+    </string-array>
+
+    <string-array name="country_code">
+        <item>+886</item>
+        <item>+81</item>
+        <item>+82</item>
+        <item>+66</item>
+        <item>+62</item>
+    </string-array>
+
+    <string-array name="planets">
+        <item>mercury 水星</item>
+        <item>Venus 金星</item>
+        <item>Earth 地球</item>
+        <item>Mars 火星</item>
+        <item>Jupiter 木星</item>
+        <item>Saturn 土星</item>
+        <item>Uranus 天王星</item>
+        <item>Neptune 海王星</item>
+    </string-array>
+</resources>

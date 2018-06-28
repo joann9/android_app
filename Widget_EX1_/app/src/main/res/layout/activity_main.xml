@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.yvtc.myapplication.MainActivity">
+
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:padding="5dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="103dp">
+
+        <ImageButton
+            android:id="@+id/imageButton_id1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/btn_star" />
+
+        <ImageButton
+            android:id="@+id/imageButton_id2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_row="0"
+            android:src="@android:drawable/btn_star_big_on" />
+
+        <ImageButton
+            android:id="@+id/imageButton_id3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:layout_row="0"
+            android:src="@android:drawable/ic_delete" />
+
+        <ImageButton
+            android:id="@+id/imageButton_id4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_row="1"
+            android:src="@android:drawable/ic_btn_speak_now" />
+
+        <ImageButton
+            android:id="@+id/imageButton_id5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_row="1"
+            android:src="@android:drawable/ic_dialog_alert" />
+
+        <ImageButton
+            android:id="@+id/imageButton_id6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:layout_row="1"
+            android:src="@android:drawable/ic_dialog_email" />
+
+    </GridLayout>
+
+    <ImageView
+        android:id="@+id/imageView_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="108dp"
+        android:src="@mipmap/ic_launcher"
+        app:layout_constraintTop_toBottomOf="@+id/gridLayout"
+        tools:layout_editor_absoluteX="156dp" />
+
+    <TextView
+        android:id="@+id/textView_id"
+        android:layout_width="326dp"
+        android:layout_height="28dp"
+        android:layout_marginTop="88dp"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@+id/imageView_id"
+        tools:layout_editor_absoluteX="29dp" />
+</android.support.constraint.ConstraintLayout>
